@@ -78,3 +78,7 @@ Image:-
 
 <img width="1882" height="974" alt="Screenshot 2026-03-20 152201" src="https://github.com/user-attachments/assets/ccbd117d-1432-40b3-8f6b-1d3a32fcebc3" />
 
+UI:-
+
+<img width="1903" height="976" alt="Screenshot 2026-03-20 152943" src="https://github.com/user-attachments/assets/0c49c083-10d3-43a4-a283-eecd60c4cef8" />
+
